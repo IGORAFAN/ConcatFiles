@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Windows Kits\10\Include\10.0.17763.0\um\winnt.h(643,16): error C2143: syntax error: missing ';' before '*'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winnt.h(643,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Windows Kits\10\Include\10.0.17763.0\um\winnt.h(643,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(262,13): error C2040: 'HFILE': 'int' differs in levels of indirection from 'void *'
+C:\Windows Kits\10\Include\10.0.17763.0\um\processenv.h(71,23): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\namedpipeapi.h(31,19): error C2146: syntax error: missing ')' before identifier 'hReadPipe'
+C:\Windows Kits\10\Include\10.0.17763.0\um\heapapi.h(200,51): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h(507,22): error C2146: syntax error: missing ')' before identifier 'Thread'
+C:\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h(518,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\processthreadsapi.h(529,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\threadpoollegacyapiset.h(65,22): error C2146: syntax error: missing ')' before identifier 'phNewTimer'
+C:\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h(642,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h(714,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h(727,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\securitybaseapi.h(1461,41): error C2146: syntax error: missing ')' before identifier 'SourceFiles'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(947,6): warning C4494: 'GlobalAlloc' : Ignoring __declspec(allocator) because the function return type is not a pointer or reference
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(964,6): warning C4494: 'GlobalReAlloc' : Ignoring __declspec(allocator) because the function return type is not a pointer or reference
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(1094,6): warning C4494: 'LocalAlloc' : Ignoring __declspec(allocator) because the function return type is not a pointer or reference
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(1105,6): warning C4494: 'LocalReAlloc' : Ignoring __declspec(allocator) because the function return type is not a pointer or reference
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(1545,21): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(7197,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(7208,22): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(7225,26): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(7240,26): error C2061: syntax error: identifier 'PHANDLE'
+C:\Windows Kits\10\Include\10.0.17763.0\um\winbase.h(7324,22): error C2146: syntax error: missing ')' before identifier 'phNewWaitObject'
+C:\Windows Kits\10\Include\10.0.17763.0\um\mmiscapi.h(203,22): error C2061: syntax error: identifier 'PHANDLE'
