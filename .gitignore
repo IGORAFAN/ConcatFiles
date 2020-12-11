@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# My costom
+Debug/
+*.filters
+*.user
+.vs/
